@@ -1,4 +1,4 @@
-package _1.SlidingWindow;
+package _1.SlidingWindow.Fast_Lagging;
 
 public class HouseRobber {
 
